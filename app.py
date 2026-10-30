@@ -27,6 +27,7 @@ shipments["cost_variance_inr"] = shipments["freight_cost_inr"] - shipments["benc
 shipments["cost_variance_pct"] = np.where(shipments["benchmark_cost_inr"] > 0, shipments["cost_variance_inr"] / shipments["benchmark_cost_inr"] * 100, np.nan)
 
 orders = D["orders"].copy()
+orders["order_date"] = pd.to_datetime(orders["order_date"])
 orders["promised_delivery_date"] = pd.to_datetime(orders["promised_delivery_date"])
 orders["actual_delivery_date"] = pd.to_datetime(orders["actual_delivery_date"])
 orders["on_time"] = orders["actual_delivery_date"] <= orders["promised_delivery_date"]
