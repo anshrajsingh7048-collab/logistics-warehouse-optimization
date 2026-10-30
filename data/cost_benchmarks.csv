@@ -1,0 +1,13 @@
+route_id,origin,destination,distance_km,benchmark_freight_per_tonne,benchmark_cost_per_tonne_km
+R01,Jamshedpur,Kolkata,280,498.4,1.78
+R02,Jamshedpur,Patna,460,818.8,1.78
+R03,Jamshedpur,Ranchi,130,231.4,1.78
+R04,Kolkata,Bhubaneswar,440,783.2,1.78
+R05,Delhi NCR,Lucknow,550,979.0,1.78
+R06,Nagpur,Raipur,290,516.2,1.78
+R07,Patna,Guwahati,500,890.0,1.78
+R08,Kolkata,Guwahati,1030,1833.4,1.78
+R09,Ranchi,Bhubaneswar,450,801.0,1.78
+R10,Delhi NCR,Nagpur,1050,1869.0,1.78
+R11,Patna,Ranchi,330,587.4,1.78
+R12,Nagpur,Jamshedpur,700,1246.0,1.78

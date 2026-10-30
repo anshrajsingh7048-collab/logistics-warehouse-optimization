@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,region,storage_capacity_pallets,wsp_name,warehouse_cost_benchmark_per_unit
+WH01,Jamshedpur DC,East,9000,EastLog Services,8.2
+WH02,Kolkata DC,East,12000,RapidStore Logistics,7.9
+WH03,Patna DC,East,7500,EastLog Services,8.4
+WH04,Ranchi DC,East,6500,Prime Warehousing,8.1
+WH05,Bhubaneswar DC,East,8000,Prime Warehousing,8.0
+WH06,Delhi NCR DC,North,15000,NorthStar 3PL,7.6
+WH07,Lucknow DC,North,8500,NorthStar 3PL,7.8
+WH08,Nagpur DC,Central,10000,CentralLink 3PL,7.7
+WH09,Raipur DC,Central,7000,CentralLink 3PL,8.3
+WH10,Guwahati DC,Northeast,6000,NorthEast Storage,8.7

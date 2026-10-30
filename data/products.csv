@@ -1,0 +1,81 @@
+product_id,product_name,category,unit_value_inr,average_daily_demand_units,lead_time_days
+SKU001,FMCG Product 001,Personal Care,208.5,31,4
+SKU002,FMCG Product 002,Packaged Foods,438.7,59,6
+SKU003,FMCG Product 003,Home Care,373.15,52,7
+SKU004,FMCG Product 004,Personal Care,514.94,122,8
+SKU005,FMCG Product 005,Beverages,440.2,134,2
+SKU006,FMCG Product 006,Beverages,278.99,134,3
+SKU007,FMCG Product 007,Personal Care,533.76,169,4
+SKU008,FMCG Product 008,Home Care,129.36,141,4
+SKU009,FMCG Product 009,Staples,39.2,65,9
+SKU010,FMCG Product 010,Personal Care,81.28,30,8
+SKU011,FMCG Product 011,Packaged Foods,476.47,115,4
+SKU012,FMCG Product 012,Staples,313.67,165,9
+SKU013,FMCG Product 013,Home Care,125.79,175,5
+SKU014,FMCG Product 014,Home Care,338.15,50,6
+SKU015,FMCG Product 015,Packaged Foods,120.2,51,5
+SKU016,FMCG Product 016,Beverages,460.2,18,3
+SKU017,FMCG Product 017,Home Care,303.85,35,9
+SKU018,FMCG Product 018,Staples,263.14,105,2
+SKU019,FMCG Product 019,Personal Care,213.45,103,3
+SKU020,FMCG Product 020,Staples,418.93,74,3
+SKU021,FMCG Product 021,Staples,251.13,64,4
+SKU022,FMCG Product 022,Beverages,79.78,151,3
+SKU023,FMCG Product 023,Staples,98.75,89,2
+SKU024,FMCG Product 024,Beverages,626.19,147,7
+SKU025,FMCG Product 025,Beverages,592.86,173,9
+SKU026,FMCG Product 026,Home Care,462.32,65,2
+SKU027,FMCG Product 027,Home Care,191.17,46,4
+SKU028,FMCG Product 028,Packaged Foods,630.74,172,6
+SKU029,FMCG Product 029,Staples,511.72,118,9
+SKU030,FMCG Product 030,Packaged Foods,473.06,60,7
+SKU031,FMCG Product 031,Staples,305.85,116,8
+SKU032,FMCG Product 032,Packaged Foods,195.15,98,6
+SKU033,FMCG Product 033,Home Care,85.24,164,5
+SKU034,FMCG Product 034,Home Care,589.13,55,3
+SKU035,FMCG Product 035,Home Care,309.86,178,8
+SKU036,FMCG Product 036,Home Care,151.48,169,8
+SKU037,FMCG Product 037,Personal Care,216.22,42,2
+SKU038,FMCG Product 038,Home Care,387.01,39,7
+SKU039,FMCG Product 039,Beverages,135.48,101,2
+SKU040,FMCG Product 040,Home Care,560.38,19,7
+SKU041,FMCG Product 041,Personal Care,499.07,62,8
+SKU042,FMCG Product 042,Personal Care,474.66,85,3
+SKU043,FMCG Product 043,Personal Care,295.06,174,5
+SKU044,FMCG Product 044,Personal Care,417.07,178,2
+SKU045,FMCG Product 045,Packaged Foods,390.06,37,6
+SKU046,FMCG Product 046,Packaged Foods,431.15,161,9
+SKU047,FMCG Product 047,Beverages,77.78,27,2
+SKU048,FMCG Product 048,Packaged Foods,284.88,137,5
+SKU049,FMCG Product 049,Personal Care,51.01,154,9
+SKU050,FMCG Product 050,Home Care,333.74,161,4
+SKU051,FMCG Product 051,Home Care,231.16,49,3
+SKU052,FMCG Product 052,Personal Care,115.33,162,5
+SKU053,FMCG Product 053,Staples,89.63,31,6
+SKU054,FMCG Product 054,Personal Care,392.28,99,7
+SKU055,FMCG Product 055,Packaged Foods,131.62,90,4
+SKU056,FMCG Product 056,Home Care,603.2,65,9
+SKU057,FMCG Product 057,Personal Care,388.16,15,6
+SKU058,FMCG Product 058,Home Care,241.79,141,4
+SKU059,FMCG Product 059,Personal Care,394.32,68,9
+SKU060,FMCG Product 060,Personal Care,39.25,123,9
+SKU061,FMCG Product 061,Packaged Foods,624.1,80,5
+SKU062,FMCG Product 062,Personal Care,326.44,74,2
+SKU063,FMCG Product 063,Home Care,514.21,160,6
+SKU064,FMCG Product 064,Beverages,76.71,27,6
+SKU065,FMCG Product 065,Home Care,329.16,135,3
+SKU066,FMCG Product 066,Packaged Foods,331.69,137,7
+SKU067,FMCG Product 067,Beverages,611.14,75,8
+SKU068,FMCG Product 068,Personal Care,382.33,56,2
+SKU069,FMCG Product 069,Staples,320.93,12,7
+SKU070,FMCG Product 070,Beverages,191.86,169,3
+SKU071,FMCG Product 071,Beverages,232.23,171,7
+SKU072,FMCG Product 072,Personal Care,350.42,52,5
+SKU073,FMCG Product 073,Staples,299.32,17,2
+SKU074,FMCG Product 074,Staples,38.51,32,9
+SKU075,FMCG Product 075,Packaged Foods,541.43,23,3
+SKU076,FMCG Product 076,Beverages,585.1,151,6
+SKU077,FMCG Product 077,Staples,112.66,161,3
+SKU078,FMCG Product 078,Packaged Foods,371.27,37,9
+SKU079,FMCG Product 079,Staples,92.86,137,7
+SKU080,FMCG Product 080,Beverages,445.15,42,8

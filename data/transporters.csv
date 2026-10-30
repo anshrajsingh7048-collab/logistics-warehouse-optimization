@@ -1,0 +1,19 @@
+transporter_id,transporter_name,base_rate_per_tonne_km,reliability_factor
+TR01,SwiftHaul,2.17,0.95
+TR02,RoadLink,1.9,0.91
+TR03,BlueRoute,2.24,0.93
+TR04,PrimeMove,2.11,0.85
+TR05,Eastern Carriers,1.63,0.97
+TR06,National Freight,2.33,0.96
+TR07,CargoSphere,2.16,0.94
+TR08,FleetPro,2.18,0.82
+TR09,Reliable Roadways,1.65,0.87
+TR10,TransAxis,1.91,0.79
+TR11,Apex Logistics,1.85,0.81
+TR12,Metro Freight,2.29,0.92
+TR13,OmniHaul,2.07,0.93
+TR14,SpeedLine,2.21,0.97
+TR15,Unity Transport,1.9,0.85
+TR16,Pioneer Carriers,1.73,0.85
+TR17,ExpressWay,1.99,0.87
+TR18,NorthStar Transport,1.6,0.82
